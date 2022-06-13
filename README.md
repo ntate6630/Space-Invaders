@@ -1,7 +1,7 @@
 # Space-Invaders
 A Space Invaders game written in Z180 assembler
 
-#### Progress so far
+### Progress so far
 
 #####  Codeing underway on the SC126 - A Z180 based computer.
 ##### Working Display driver using some Z180 specific instructions. 
@@ -11,7 +11,7 @@ A Space Invaders game written in Z180 assembler
 ##### The aliens get deleted and the score is incremented.
 
 
-ToDo
+### ToDo
 
 ##### Add generator of random numbers 1 to 6 for randomly selecting one of the six aliens to fire back at the player.
 ##### Add "moveAlienShotDown" routine.
