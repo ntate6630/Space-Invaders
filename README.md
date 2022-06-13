@@ -18,5 +18,6 @@
 ##### Add "moveAliensDown" a row after so many repetitions of the "mainLoop". (to be decided).
 ##### Add collision detection routine for the alien shot when any of three conditions occur.
 ##### Add sounds, for player and alien fire and explosions for a hit.
+##### Add "displayScore", "displayLives" functions.
 ##### Add code tidyup and optimizations.
 
