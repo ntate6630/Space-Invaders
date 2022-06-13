@@ -1,5 +1,5 @@
 # Space-Invaders
-A Space Invaders game written in Z180 assembler
+## A Space Invaders game written in Z180 assembler
 
 ### Progress so far
 
