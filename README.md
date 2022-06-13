@@ -1,7 +1,7 @@
 # Space-Invaders
 A Space Invaders game written in Z180 assembler
 
-Progress so far
+#### Progress so far
 
 Codeing underway on the SC126 - A Z180 based computer.
 Working Display driver using some Z180 specific instructions. 
