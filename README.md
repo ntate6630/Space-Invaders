@@ -11,7 +11,7 @@
 ##### The aliens get deleted and the score is incremented.
 ##### The aliens get selected to shoot from a semi-random table of data which represents the position of each alien.
 ##### Added "moveAlienShotDown" routine.
-##### Added collision detection routine for the alien shot when any of three conditions occur, being either a house is hit, the shot reaches the bottom of display or the ##### players turret is hit.
+##### Added collision detection routine for the alien shot when any of three conditions occur, being either a house is hit, the shot reaches the bottom of display or the players turret is hit.
 
 
 ### ToDo
