@@ -17,6 +17,7 @@
 ### ToDo
 
 ##### Add "moveAliensDown" a row after so many repetitions of the "mainLoop". (to be decided).
+##### Add a flying saucer once the aliens have moved down two rows (to be decided).
 ##### Add sounds, for player and alien fire and explosions for a hit using Arduino synth module coming soon. 
 ##### Add "displayScore", "displayLives" at the end of the game.
 ##### Add code tidyup and optimizations.
