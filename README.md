@@ -9,15 +9,15 @@
 ##### players turret movable left and right. 
 ##### Player can fire shots and hit aliens.
 ##### The aliens get deleted and the score is incremented.
+##### The aliens get selected to shoot from a semi-random table of data which represents the position of each alien.
+##### Added "moveAlienShotDown" routine.
+##### Added collision detection routine for the alien shot when any of three conditions occur, being either a house is hit, the shot reaches the bottom of display or the ##### players turret is hit.
 
 
 ### ToDo
 
-##### Add generator of random numbers 1 to 6 for randomly selecting one of the six aliens to fire back at the player.
-##### Add "moveAlienShotDown" routine.
 ##### Add "moveAliensDown" a row after so many repetitions of the "mainLoop". (to be decided).
-##### Add collision detection routine for the alien shot when any of three conditions occur.
-##### Add sounds, for player and alien fire and explosions for a hit.
-##### Add "displayScore", "displayLives" functions.
+##### Add sounds, for player and alien fire and explosions for a hit using Arduino synth module coming soon. 
+##### Add "displayScore", "displayLives" at the end of the game.
 ##### Add code tidyup and optimizations.
 
